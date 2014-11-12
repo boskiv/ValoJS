@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/boskiv/ValoJS/issues"
   },
-  "homepage": "https://github.com/boskiv/ValoJS"
+  "homepage": "https://github.com/boskiv/ValoJS",
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
 }
