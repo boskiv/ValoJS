@@ -1,2 +1,5 @@
 ValoJS
 ======
+
+Install:
+ - npm install
